@@ -1,7 +1,10 @@
+// Let’s create a function that prints a reminder to the console. Using a function declaration, create a function called getReminder().
+
 function getReminder(){
     console.log('Water the plants.')
   }
   
+//   In the function body of getReminder(), log the following reminder to the console: 'Water the plants.'/
   function greetInSpanish(){
     getReminder();
     console.log('Buenas tardes.')
@@ -48,4 +51,5 @@ function sayThanks(name) {
     console.log(`Remember to buy ${item2}`);
     console.log(`Remember to buy ${item3}`);
   }
+  
   
